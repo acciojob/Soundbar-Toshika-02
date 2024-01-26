@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.btn {
+	align-items: center;
+  justify-content: space-around;
+  padding: 10px 10px;
+  margin: 10px;
+  background-color: rgb(103,51,152);rgb(103,51,152);
+	color: white;
+  
+  border: none;
+  cursor: pointer;
+}
+
+.stop {
+  background-color: rgb(103,51,152);
+	color: white;
+}
+div{
+	background: rgb(160,101,223);
+	height: 15rem;
+	
+}
+
